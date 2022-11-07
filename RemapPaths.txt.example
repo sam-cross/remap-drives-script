@@ -1,0 +1,3 @@
+\\localfs01\Example-Share > \\afs01\Example-Share
+\\localfs02\Example Share 2 > \\afs03\Example Share 2
+\\localfs01\OldSharePath > \\afs03\NewFS01SharePath
