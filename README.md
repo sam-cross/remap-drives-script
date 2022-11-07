@@ -26,7 +26,9 @@ There are a couple parameters you can use as well:
 
 So, as a full example, run:
 
-`.\Remap.ps1 -RemapFile "C:\Temp\MyRemaps.txt" -RemapLogDir "C:\Temp\RemapLogs"`
+```powershell
+.\Remap.ps1 -RemapFile "C:\Temp\MyRemaps.txt" -RemapLogDir "C:\Temp\RemapLogs"
+```
 
 ## RemapFile
 
